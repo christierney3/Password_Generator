@@ -7,6 +7,8 @@ Specifically if they would like to include numbers, special characters and capit
 
 * After that I created a function to combine to possible characters with the results from the confirms to get a password the user has narrowed down.
 
+Technology Used: Javascript, HTML, CSS
+
 [alt text](./images/PWGEN_Screenshot.jpg) 
 
 Link --> https://christierney3.github.io/Password_Generator
